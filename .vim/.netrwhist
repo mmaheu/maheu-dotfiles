@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/mmaheu/Development/java/SpringBoot/src/main/java/com/in28minutes'
+let g:netrw_dirhist_2='/home/mmaheu/Development/java/SpringBoot/src/main/java/com/in28minutes/springboot'
+let g:netrw_dirhist_3='/home/mmaheu/Development/java/SpringBoot/src/main/java/com/in28minutes/springboot/web'
+let g:netrw_dirhist_4='/home/mmaheu/Development/java/SpringBoot/src/main/java/com/in28minutes/springboot/web/controller'
